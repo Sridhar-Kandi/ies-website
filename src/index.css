@@ -1,1 +1,8 @@
-*{box-sizing:border-box;margin:0;padding:0;font-family:'Poppins',sans-serif}html{scroll-behavior:smooth}body{margin:0;overflow-x:hidden;-webkit-font-smoothing:antialiased}::selection{background:#60a5fa;color:#fff}img{display:block}::-webkit-scrollbar{width:5px}::-webkit-scrollbar-track{background:transparent}::-webkit-scrollbar-thumb{background:rgba(128,128,128,.2);border-radius:3px}
+*{box-sizing:border-box;margin:0;padding:0;font-family:'Poppins',sans-serif}
+html{scroll-behavior:smooth;font-size:15px}
+body{margin:0;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+::selection{background:#60a5fa;color:#fff}
+img{display:block}
+::-webkit-scrollbar{width:5px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:rgba(128,128,128,.2);border-radius:3px}
